@@ -1,31 +1,125 @@
-// @#$!@#$@!#$Progress### << ///Dec_2023..??>> @ @#$@%#!@%!Saving??@!#$@!#$@!#$!@#$@!#$
-// !!!!! don't stay at one part for more than 1 weekds...!!!!
-// !!!!! proceed as you go through by commenting .. for furhter refirinement..
-// //..//...//..//...//..//..//..//...//
-#include <iostream>
-using namespace std;
+//@#$!@#$@!#$Progress### << ///Jan_2023..??>> @ @#$@%#!@%!Saving??@!#$@!#$@!#$!@#$@!#$
+//!!!!! don't stay at one part for more than 1 weekds...!!!!
+//!!!!! proceed as you go through by commenting .. for furhter refirinement..
+//..//...//..//...//..//..//..//...//
+//..//..Code explanation.//..use...//.ChatGPT.//..//..//...//
+//..//...//..//...//..//..//..//...//
 
 
-
-
-
+/*________Codecoach Challenges__________________ */
 
 /*
-#include <iostream>
-using namespace std;
-
-int main()
-{
-	cout << "Hello world cpp" << endl;
-	return 0;
-}
 
 
-int main()
-{	// declaring and input output okay.. using cpp 
-	int name;
-	cin>> name;
-	cout<<name <<endl;
-}
 
-//what is list for cpp .. why?? it has created a .exe.. file.. there ?
+
+
+*/
+
+
+/*Intro_C_______________ Getting Started _________________*/
+
+/*
+
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+
+
+
+
+
+*/
+
+
+
+/*Intro_C_______________ Operators and Strings _________________*/
+
+/*
+
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+
+
+
+
+*/
+
+
+/*Intro_Cs_______________ Decision Making _________________*/
+
+/*
+
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+
+
+
+
+*/
+
+
+/*Intro_Cs_______________ Loops _________________*/
+
+/*
+
+
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+
+
+
+*/
+
+
+/*Intro_Cs_______________ Methods _________________*/
+
+/*
+
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+//_________________ Numbers
+//______ Output
+
+
+
+
+*/
+
